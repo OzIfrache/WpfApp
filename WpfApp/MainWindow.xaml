@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="600" Width="800">
     <Grid>
         <Button   Content= "Button 1" HorizontalAlignment="Left" Margin="225,0,0,0" VerticalAlignment="Center" Height="49" Width="85" Click="Button_Click"/>
         <Button Content="Button 2" HorizontalAlignment="Left" Margin="382,193,0,0" VerticalAlignment="Top" Height="59" Width="88" Click="Button_Click_1"/>
