@@ -29,5 +29,11 @@ namespace WpfApp
         {
             MessageBox.Show("Test 1");
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Test 2");
+
+        }
     }
 }
