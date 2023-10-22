@@ -32,7 +32,7 @@ namespace WpfApp
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Test 2");
+            MessageBox.Show("Test 3");
 
         }
     }
